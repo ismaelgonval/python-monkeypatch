@@ -8,6 +8,7 @@ authors = ["Ismael González Valverde <ismaelgv@ext.inditex.com>"]
 python = "^3.8"
 PyGithub = "^1.55"
 cryptography = "^3.4.8"
+pygithub = {path = "../../external/PyGithub-jorge"}
 
 [tool.poetry.dev-dependencies]
 
